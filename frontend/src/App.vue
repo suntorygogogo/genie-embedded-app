@@ -67,7 +67,7 @@ import naviIcon from '../icon/navi.svg'
 const route = useRoute()
 
 function openAnalysis() {
-  window.open('https://open-data-center-2205520462893510.10.azure.databricksapps.com/', '_blank')
+  window.open('https://data-navi-2205520462893510.10.azure.databricksapps.com/', '_blank')
 }
 </script>
 
